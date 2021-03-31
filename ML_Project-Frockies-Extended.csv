@@ -1,0 +1,501 @@
+Age range of customer,Color,Material type,Discount Status,Discount Amount,Price,Price range,Sleeve pattern,Material design,Measurement type,Collar type,Including a hairband or not,Special features (Buttons/Hucks/Zippers/None)
+50-60,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,YES,20,1400,1250-1500,Short,Plain,Ready-made,Peter pan collar,No,None
+30-40,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+40-50,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Black,Cotton,YES,15,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+30-40,Orange,Cotton,NO,0,1620,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,None
+30-40,Red,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Dotted,Ready-made,Collarless,Yes,Bow
+40-50,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,White,Cotton,YES,20,1150,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Check,Ready-made,Collarless,Yes,Bow
+30-40,White,Cotton,YES,15,1100,1000-1250,Short,Dotted,Customized,Collarless,No,Buttons
+30-40,White,Cotton,YES,20,1150,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,White,Cotton,YES,20,1200,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,YES,15,1250,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+60-70,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Plain,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Blue,Denim,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+40-50,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,Buttons
+60-70,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,YES,10,1620,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Peter pan collar,No,Buttons
+40-50,Yellow,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Cream,Denim,YES,20,1650,1500-1750,Short,Dotted,Ready-made,Collarless,No,Buttons
+40-50,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,Buttons
+40-50,Flower,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Black,Cotton,YES,15,1200,1000-1250,Sleeveless,Plain,Customized,Collarless,No,Buttons
+30-40,Green,Cotton,NO,0,1650,1500-1750,Short,Dotted,Ready-made,Peter pan collar,Yes,Buttons
+30-40,White,Cotton,YES,20,1100,1000-1250,Short,Plain,Customized,Collarless,No,Buttons
+60-70,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+40-50,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1150,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+40-50,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+50-60,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,Buttons
+20-30,Yellow,Cotton,NO,0,1450,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Pink,Cotton,YES,10,1400,1250-1500,Short,Dotted,Customized,Collarless,No,Bow
+50-60,Blue,Denim,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Plain,Ready-made,Peter pan collar,Yes,None
+40-50,White,Cotton,YES,20,1300,1250-1500,Short,Plain,Customized,Collarless,No,Buttons
+40-50,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+60-70,Black,Cotton,YES,15,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Plain,Customized,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+50-60,Orange,Cotton,YES,20,1200,1000-1250,Sleeveless,Check,Ready-made,Peter pan collar,No,None
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+50-60,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+40-50,Green,Cotton,NO,0,1650,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,None
+50-60,Yellow,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Cream,Denim,YES,20,1350,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+40-50,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+60-70,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,None
+30-40,White,Cotton,YES,20,1200,1000-1250,Short,Plain,Ready-made,Collarless,No,None
+60-70,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,None
+40-50,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+60-70,Yellow,Cotton,YES,20,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,10,1350,1250-1500,Sleeveless,Plain,Customized,Collarless,No,None
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+60-70,Black,Cotton,YES,10,1750,1500-1750,Sleeveless,Dotted,Ready-made,Collarless,No,Buttons
+20-30,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,20,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1750,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+60-70,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Pink,Cotton,YES,10,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Blue,Denim,YES,15,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Blue,Linen,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Green,Cotton,YES,20,1300,1250-1500,Short,Dotted,Ready-made,Peter pan collar,No,None
+50-60,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,10,1470,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+60-70,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+60-70,Green,Cotton,YES,20,1400,1250-1500,Short,Dotted,Customized,Peter pan collar,No,Buttons
+60-70,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+60-70,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,Buttons
+30-40,Green,Cotton,YES,10,1620,1500-1750,Short,Plain,Ready-made,Peter pan collar,No,Buttons
+20-30,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+30-40,Flower,Cotton,YES,10,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Blue,Linen,YES,15,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Plain,Ready-made,Collarless,No,None
+30-40,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+20-30,Red,Cotton,YES,15,1250,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Dotted,Customized,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1100,1000-1250,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+50-60,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Red,Cotton,YES,10,1450,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Blue,Denim,YES,10,1400,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Zipper
+60-70,Green,Cotton,YES,10,1550,1500-1750,Short,Dotted,Customized,Peter pan collar,No,None
+20-30,Pink,Cotton,YES,15,1200,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,Buttons
+20-30,Yellow,Cotton,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+40-50,Yellow,Cotton,YES,10,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,15,1200,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,None
+30-40,White,Cotton,YES,20,1100,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Ready-made,Collarless,Yes,Bow
+50-60,White,Cotton,YES,15,1300,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+40-50,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1450,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+50-60,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1450,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1650,1500-1750,Short,Plain,Customized,Peter pan collar,No,None
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1710,1500-1750,Short,Plain,Customized,Peter pan collar,No,None
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Flower,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Green,Cotton,YES,20,1400,1250-1500,Short,Plain,Ready-made,Peter pan collar,No,None
+30-40,Yellow,Cotton,YES,10,1710,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,White,Cotton,YES,20,1300,1250-1500,Short,Plain,Ready-made,Collarless,No,None
+50-60,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+50-60,Red,Cotton,YES,20,1350,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+60-70,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1550,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,Buttons
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+60-70,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+50-60,Cream,Denim,YES,20,1250,1250-1500,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,YES,20,1350,1250-1500,Short,Plain,Ready-made,Peter pan collar,No,None
+30-40,Red,Cotton,YES,10,1710,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1470,1250-1500,Short,Plain,Ready-made,Peter pan collar,No,None
+30-40,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,None
+30-40,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+50-60,Green,Cotton,NO,0,1710,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,Buttons
+40-50,Black,Cotton,YES,10,1750,1500-1750,Sleeveless,Plain,Customized,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Flower,Cotton,YES,20,1250,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+50-60,Blue,Denim,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Yellow,Cotton,YES,15,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Blue,Linen,YES,10,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,White,Cotton,YES,20,1100,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+30-40,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,Buttons
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1650,1500-1750,Short,Dotted,Customized,Peter pan collar,Yes,None
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Yellow,Cotton,YES,15,1250,1250-1500,Sleeveless,Plain,Customized,Collarless,No,Bow
+50-60,Cream,Linen,YES,20,1350,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+30-40,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Zipper
+20-30,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Black,Cotton,YES,10,1650,1500-1750,Sleeveless,Plain,Customized,Collarless,No,None
+40-50,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,NO,0,1710,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,Yes,Bow
+30-40,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,None
+40-50,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+50-60,Blue,Denim,YES,20,1200,1000-1250,Sleeveless,Dotted,Ready-made,Collarless,No,Zipper
+40-50,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1300,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1420,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1620,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Buttons
+50-60,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+50-60,Cream,Linen,YES,15,1400,1250-1500,Short,Plain,Ready-made,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Cream,Denim,YES,20,1400,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+30-40,Red,Cotton,NO,0,1450,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+40-50,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,None
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1450,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,10,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Flower,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+50-60,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Cream,Linen,YES,15,1300,1250-1500,Short,Plain,Ready-made,Collarless,No,None
+30-40,Yellow,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,White,Cotton,YES,20,1150,1000-1250,Short,Dotted,Ready-made,Collarless,No,None
+40-50,Yellow,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1420,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1470,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,YES,15,1400,1250-1500,Short,Dotted,Ready-made,Peter pan collar,No,None
+40-50,Blue,Linen,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+40-50,Blue,Linen,YES,15,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,White,Cotton,YES,20,1200,1000-1250,Short,Dotted,Ready-made,Collarless,No,Buttons
+40-50,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+30-40,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+50-60,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Flower,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1710,1500-1750,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1650,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+60-70,Pink,Cotton,YES,10,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+50-60,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Green,Cotton,NO,0,1750,1500-1750,Short,Plain,Ready-made,Peter pan collar,No,None
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+40-50,White,Cotton,YES,20,1150,1000-1250,Short,Plain,Ready-made,Collarless,No,None
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,White,Cotton,YES,15,1100,1000-1250,Short,Plain,Customized,Collarless,No,Buttons
+50-60,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Flower,Cotton,YES,20,1100,1000-1250,Sleeveless,Floral,Customized,Collarless,No,Bow
+50-60,Red,Cotton,NO,0,1450,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+30-40,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1300,1250-1500,Sleeveless,Dotted,Customized,Collarless,No,None
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+40-50,Flower,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Orange,Cotton,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Peter pan collar,No,None
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1470,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+60-70,Yellow,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+40-50,White,Cotton,YES,15,1300,1250-1500,Short,Dotted,Customized,Collarless,No,None
+30-40,Flower,Cotton,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+30-40,Blue,Linen,YES,20,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+30-40,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,10,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+50-60,Yellow,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Yellow,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,White,Cotton,YES,15,1300,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+20-30,Yellow,Cotton,YES,15,1250,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+50-60,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Plain,Ready-made,Collarless,No,Bow
+30-40,Flower,Cotton,YES,10,1710,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Blue,Denim,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1150,1000-1250,Sleeveless,Plain,Ready-made,Collarless,No,None
+40-50,Red,Cotton,YES,10,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Black,Cotton,YES,20,1150,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+30-40,Yellow,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,White,Cotton,YES,15,1300,1250-1500,Short,Plain,Ready-made,Collarless,No,None
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+60-70,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+50-60,Blue,Linen,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+50-60,Flower,Cotton,NO,0,1470,1250-1500,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+50-60,Orange,Cotton,YES,20,1300,1250-1500,Sleeveless,Check,Ready-made,Peter pan collar,No,None
+50-60,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Dotted,Customized,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Plain,Customized,Peter pan collar,Yes,None
+20-30,Black,Cotton,YES,15,1150,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,None
+20-30,Yellow,Cotton,YES,15,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,10,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+40-50,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+30-40,Green,Cotton,NO,0,1550,1500-1750,Short,Dotted,Ready-made,Peter pan collar,Yes,None
+40-50,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1450,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Blue,Denim,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,White,Cotton,YES,20,1200,1000-1250,Short,Dotted,Customized,Collarless,No,None
+30-40,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+60-70,Pink,Cotton,YES,20,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,White,Cotton,YES,15,1100,1000-1250,Short,Dotted,Customized,Collarless,No,Buttons
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+30-40,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+40-50,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+50-60,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,Yes,Bow
+50-60,White,Cotton,YES,20,1100,1000-1250,Short,Dotted,Customized,Collarless,No,None
+50-60,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Plain,Customized,Peter pan collar,No,None
+50-60,Green,Cotton,YES,10,1750,1500-1750,Short,Dotted,Customized,Peter pan collar,No,None
+20-30,Yellow,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Orange,Cotton,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Peter pan collar,No,Buttons
+60-70,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+60-70,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Orange,Cotton,YES,20,1650,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,None
+50-60,Blue,Denim,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+40-50,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1450,1250-1500,Short,Dotted,Ready-made,Peter pan collar,Yes,Buttons
+30-40,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Plain,Ready-made,Collarless,No,Bow
+30-40,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,10,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Flower,Cotton,YES,20,1250,1250-1500,Sleeveless,Plain,Ready-made,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Peter pan collar,No,None
+20-30,Yellow,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,Buttons
+40-50,Blue,Linen,YES,15,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,Buttons
+60-70,Yellow,Cotton,NO,0,1470,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Plain,Ready-made,Collarless,No,Buttons
+30-40,Red,Cotton,YES,20,1350,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1550,1500-1750,Short,Plain,Customized,Peter pan collar,No,None
+50-60,White,Cotton,YES,20,1100,1000-1250,Short,Plain,Customized,Collarless,No,Buttons
+40-50,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Orange,Cotton,YES,10,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,No,Buttons
+30-40,Pink,Cotton,YES,10,1400,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Black,Cotton,YES,15,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,None
+60-70,Green,Cotton,YES,20,1400,1250-1500,Short,Plain,Customized,Peter pan collar,No,Buttons
+30-40,Blue,Denim,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Dotted,Ready-made,Collarless,No,None
+50-60,Blue,Linen,YES,10,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+30-40,Orange,Cotton,NO,0,1470,1250-1500,Sleeveless,Floral,Customized,Peter pan collar,Yes,None
+60-70,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,Buttons
+20-30,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Yellow,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+20-30,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+50-60,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Dotted,Ready-made,Collarless,No,Buttons
+20-30,Yellow,Cotton,YES,15,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Ready-made,Peter pan collar,Yes,Buttons
+30-40,Flower,Cotton,YES,20,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+50-60,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+50-60,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Check,Customized,Collarless,Yes,Bow
+50-60,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1200,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+20-30,Green,Cotton,YES,15,1400,1250-1500,Short,Plain,Ready-made,Peter pan collar,No,Buttons
+40-50,Yellow,Cotton,YES,10,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+60-70,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+60-70,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+30-40,Pink,Cotton,YES,20,1200,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+60-70,Yellow,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1420,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Red,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Blue,Denim,YES,20,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Blue,Linen,YES,20,1150,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+40-50,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,YES,15,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+40-50,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1450,1250-1500,Short,Dotted,Ready-made,Peter pan collar,Yes,None
+30-40,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Yellow,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+40-50,Flower,Cotton,YES,20,1650,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+20-30,Pink,Cotton,YES,15,1150,1000-1250,Short,Floral,Customized,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Blue,Linen,YES,20,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Yellow,Cotton,NO,0,1470,1250-1500,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,Red,Cotton,NO,0,1710,1500-1750,Sleeveless,Check,Ready-made,Collarless,Yes,Bow
+30-40,Blue,Denim,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Black,Cotton,YES,20,1200,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Plain,Customized,Collarless,Yes,Bow
+30-40,Blue,Linen,YES,15,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1620,1500-1750,Sleeveless,Floral,Customized,Collarless,Yes,Bow
+30-40,Red,Cotton,NO,0,1650,1500-1750,Sleeveless,Check,Ready-made,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+50-60,Red,Cotton,YES,20,1250,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,Blue,Linen,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+20-30,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,Buttons
+30-40,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+30-40,Flower,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+30-40,White,Cotton,YES,15,1300,1250-1500,Short,Dotted,Ready-made,Collarless,No,None
+40-50,Blue,Denim,YES,15,1100,1000-1250,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1750,1500-1750,Short,Plain,Ready-made,Peter pan collar,Yes,None
+30-40,Black,Cotton,YES,20,1300,1250-1500,Sleeveless,Plain,Customized,Collarless,No,None
+20-30,Yellow,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,Yes,Bow
+40-50,Yellow,Cotton,YES,20,1350,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1350,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Dotted,Ready-made,Collarless,Yes,Bow
+30-40,Yellow,Cotton,YES,10,1710,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,Yes,Bow
+30-40,Orange,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Peter pan collar,Yes,Buttons
+20-30,Pink,Cotton,YES,20,1300,1250-1500,Short,Floral,Ready-made,Collarless,No,Bow
+60-70,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Customized,Collarless,No,Bow
+20-30,Yellow,Cotton,NO,0,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1550,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Yellow,Cotton,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1420,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
+20-30,Green,Cotton,NO,0,1550,1500-1750,Short,Plain,Customized,Peter pan collar,Yes,Buttons
+20-30,Pink,Cotton,YES,20,1100,1000-1250,Short,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+30-40,Orange,Cotton,NO,0,1650,1500-1750,Sleeveless,Floral,Ready-made,Peter pan collar,Yes,Buttons
+40-50,Yellow,Cotton,YES,20,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,20,1650,1500-1750,Sleeveless,Check,Customized,Collarless,No,Bow
+40-50,Red,Cotton,NO,0,1470,1250-1500,Sleeveless,Check,Customized,Collarless,Yes,Bow
+30-40,Red,Cotton,NO,0,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Black,Cotton,YES,20,1300,1250-1500,Sleeveless,Dotted,Ready-made,Collarless,No,None
+20-30,Green,Cotton,YES,15,1300,1250-1500,Short,Plain,Customized,Peter pan collar,No,Buttons
+20-30,Yellow,Cotton,YES,20,1250,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+60-70,Black,Cotton,YES,20,1100,1000-1250,Sleeveless,Dotted,Customized,Collarless,No,None
+50-60,Blue,Denim,YES,10,1400,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Zipper
+20-30,Black,Cotton,YES,15,1100,1000-1250,Sleeveless,Plain,Customized,Collarless,No,None
+30-40,Red,Cotton,YES,10,1750,1500-1750,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+20-30,Pink,Cotton,NO,0,1400,1250-1500,Short,Floral,Customized,Collarless,No,Bow
+40-50,Blue,Linen,YES,20,1300,1250-1500,Sleeveless,Floral,Ready-made,Collarless,No,Bow
+30-40,Red,Cotton,YES,10,1750,1500-1750,Sleeveless,Check,Ready-made,Collarless,No,Bow
+40-50,Red,Cotton,YES,20,1400,1250-1500,Sleeveless,Check,Customized,Collarless,No,Bow
